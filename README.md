@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h3> <p style="color:#54b79f;" >Hi</p> 👋 , I'm </h3>
+<h3> <p style="color:#54b79f; display:inline;" >Hi</p> 👋 , I'm </h3>
 <h1> Ali Al Meamar </h1>
 <!--
 **alialmeamar/alialmeamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
